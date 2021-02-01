@@ -7,17 +7,18 @@ sections:
     background: gray
     faq_items:
       - question: What is this item / question?
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          ## The answer
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          The answer depends of the questions of course!  Lorem ipsum dolor sit
+          amet, **consectetur adipiscing elit**, sed do eiusmod tempor
+          incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
         type: faq_item
     type: section_faq
 seo:
