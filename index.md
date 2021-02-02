@@ -107,7 +107,7 @@ sections:
     subtitle: 'All the reviews, none of the facts.'
     background: white
     reviews:
-      - author: lorem-ipsum
+      - author: Bob Wooley
         avatar_alt: lorem-ipsum
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
