@@ -2,7 +2,7 @@
 title: FAQ
 sections:
   - section_id: FAQ Section
-    title: Frequenty ASked Questions
+    title: Frequenty Asked Questions
     subtitle: lorem-ipsum
     background: gray
     faq_items:
