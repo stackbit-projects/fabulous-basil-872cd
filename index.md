@@ -140,7 +140,7 @@ sections:
           *   Lorem ipsum
 
           *   dolor sit amet
-        highlight: false
+        highlight: true
         actions: []
         type: pricing_plan
     type: section_pricing
