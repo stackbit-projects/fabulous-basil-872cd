@@ -123,7 +123,7 @@ sections:
     type: section_reviews
   - section_id: lorem-ipsum
     title: Pricing
-    subtitle: lorem-ipsum
+    subtitle: The price is right
     background: gray
     pricing_plans: []
     type: section_pricing
