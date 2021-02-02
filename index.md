@@ -126,7 +126,7 @@ sections:
     subtitle: The price is right
     background: gray
     pricing_plans:
-      - title: lorem-ipsum
+      - title: Free
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
