@@ -106,7 +106,13 @@ sections:
     title: Reviews
     subtitle: 'All the reviews, none of the facts.'
     background: white
-    reviews: []
+    reviews:
+      - author: lorem-ipsum
+        avatar_alt: lorem-ipsum
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        type: review_item
     type: section_reviews
 seo:
   title: Stackbit Azimuth Theme
