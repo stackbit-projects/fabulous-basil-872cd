@@ -104,7 +104,7 @@ sections:
     title: Latest Posts
   - section_id: lorem-ipsum
     title: Reviews
-    subtitle: lorem-ipsum
+    subtitle: 'All the reviews, none of the cafct'
     background: gray
     reviews: []
     type: section_reviews
