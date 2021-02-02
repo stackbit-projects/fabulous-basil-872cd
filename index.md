@@ -105,7 +105,7 @@ sections:
   - section_id: lorem-ipsum
     title: Reviews
     subtitle: 'All the reviews, none of the facts.'
-    background: gray
+    background: white
     reviews: []
     type: section_reviews
 seo:
