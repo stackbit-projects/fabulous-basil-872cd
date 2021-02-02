@@ -1,7 +1,7 @@
 ---
 title: FAQ
 sections:
-  - section_id: lorem-ipsum
+  - section_id: FAQ Section
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
