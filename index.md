@@ -121,6 +121,12 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         type: review_item
     type: section_reviews
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    pricing_plans: []
+    type: section_pricing
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
