@@ -26,6 +26,7 @@ sections:
         no_follow: false
         type: action
     type: section_hero
+    image: images/10.jpg
   - section_id: FAQ Section
     title: Frequenty Asked Questions
     subtitle: 'You asked for it, now the truth will be revealed'
