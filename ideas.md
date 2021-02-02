@@ -1,6 +1,22 @@
 ---
 title: FAQ
 sections:
+  - section_id: FAQ Hero
+    title: Be all knowing
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    image_alt: lorem-ipsum
+    actions: []
+    type: section_hero
   - section_id: FAQ Section
     title: Frequenty Asked Questions
     subtitle: 'You asked for it, now the truth will be revealed'
@@ -21,22 +37,6 @@ sections:
           *   dolor sit amet
         type: faq_item
     type: section_faq
-  - section_id: FAQ Hero
-    title: Be all knowing
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    image_alt: lorem-ipsum
-    actions: []
-    type: section_hero
 seo:
   title: lorem-ipsum
   description: lorem-ipsum
