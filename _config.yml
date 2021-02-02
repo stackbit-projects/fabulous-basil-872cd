@@ -17,6 +17,7 @@ header:
     - label: Features
       url: /features
       style: link
+      has_icon: true
     - label: Pricing
       url: /pricing
       style: link
