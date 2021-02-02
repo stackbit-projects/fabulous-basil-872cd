@@ -110,8 +110,8 @@ sections:
       - author: Bob Wooley
         avatar_alt: lorem-ipsum
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Beef or cow?  That is the question.  You wither eat beef or cow.  Or,
+          you can't survive.
         type: review_item
         avatar: images/2.jpg
     type: section_reviews
