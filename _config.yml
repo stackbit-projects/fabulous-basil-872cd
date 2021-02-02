@@ -27,7 +27,7 @@ header:
       url: /signup
       style: primary
     - label: My Test
-      url: lorem-ipsum
+      url: /ideas
       style: link
       has_icon: false
       icon: arrow-left
