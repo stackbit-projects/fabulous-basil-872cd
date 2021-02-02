@@ -3,7 +3,7 @@ title: FAQ
 sections:
   - section_id: FAQ Section
     title: Frequenty Asked Questions
-    subtitle: lorem-ipsum
+    subtitle: 'lYou asked for it, now you'
     background: gray
     faq_items:
       - question: What is this item / question?
