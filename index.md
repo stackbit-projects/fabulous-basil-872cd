@@ -122,7 +122,7 @@ sections:
         type: review_item
     type: section_reviews
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Pricing
     subtitle: lorem-ipsum
     background: gray
     pricing_plans: []
