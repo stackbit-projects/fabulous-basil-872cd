@@ -114,7 +114,7 @@ sections:
           you can't survive.
         type: review_item
         avatar: images/2.jpg
-      - author: lorem-ipsum
+      - author: Beef or cow
         avatar_alt: lorem-ipsum
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
