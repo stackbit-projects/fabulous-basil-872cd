@@ -127,7 +127,7 @@ sections:
     background: gray
     pricing_plans:
       - title: Free
-        subtitle: lorem-ipsum
+        subtitle: Great for getting started
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
