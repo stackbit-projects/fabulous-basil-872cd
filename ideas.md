@@ -3,7 +3,7 @@ title: FAQ
 sections:
   - section_id: FAQ Section
     title: Frequenty Asked Questions
-    subtitle: 'You asked for it, now you''re gonna learn'
+    subtitle: 'You asked for it, now the truth will be revealed'
     background: gray
     faq_items:
       - question: What is this item / question?
