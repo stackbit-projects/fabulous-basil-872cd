@@ -22,7 +22,7 @@ sections:
         type: faq_item
     type: section_faq
   - section_id: FAQ Hero
-    title: lorem-ipsum
+    title: Be all knowing
     content: >-
       ## Lorem ipsum
 
