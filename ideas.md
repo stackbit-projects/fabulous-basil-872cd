@@ -21,7 +21,7 @@ sections:
           *   dolor sit amet
         type: faq_item
     type: section_faq
-  - section_id: lorem-ipsum
+  - section_id: FAQ Hero
     title: lorem-ipsum
     content: >-
       ## Lorem ipsum
