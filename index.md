@@ -113,6 +113,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         type: review_item
+        avatar: images/2.jpg
     type: section_reviews
 seo:
   title: Stackbit Azimuth Theme
