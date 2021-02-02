@@ -128,7 +128,7 @@ sections:
     pricing_plans:
       - title: Free
         subtitle: Great for getting started
-        price: lorem-ipsum
+        price: $19.95
         details: >
           ## Buy Buy Buy
 
